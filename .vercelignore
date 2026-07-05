@@ -1,0 +1,7 @@
+.git
+.gitignore
+.eslintignore
+README.md
+.env
+.env.local
+.env.*.local
